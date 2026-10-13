@@ -8,7 +8,7 @@ Welcome to my central repository for digital forensics investigation and analysi
 
 | Case ID | Investigation Target | Core Focus Tools | Documentation Link |
 | :--- | :--- | :--- | :--- |
-| **Case 001** | 8 GB USB Flash Drive Data Recovery | FTK Imager, Autopsy | [View Report & Findings](./Case-001_USB-Flash-Drive-Analysis/) |
+| **Case 001** | 8 GB USB Flash Drive Data Recovery | FTK Imager, Autopsy | [View Report & Findings](./Digital_Acquisition_and_Imaging_Report.pdf) |
 | **Case 002** | *Coming Soon (e.g., Windows Artifact Triage)* | *Tools Used* | *Link* |
 | **Case 003** | *Coming Soon (e.g., Memory/Network Forensics)* | *Tools Used* | *Link* |
 
